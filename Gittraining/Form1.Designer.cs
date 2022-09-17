@@ -34,7 +34,7 @@ namespace Gittraining
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(95, 146);
+            this.button1.Location = new System.Drawing.Point(356, 55);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(151, 60);
             this.button1.TabIndex = 0;
@@ -46,8 +46,8 @@ namespace Gittraining
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.Gold;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.BackColor = System.Drawing.Color.Orange;
+            this.ClientSize = new System.Drawing.Size(870, 144);
             this.Controls.Add(this.button1);
             this.Name = "Form1";
             this.Text = "Form1";
